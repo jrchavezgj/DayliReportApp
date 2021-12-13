@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KFuRNEZwfImu613s7dtfycwzYqNE70aKTFPAPVifMr+2SvVNUKJQseLffzmvbya9beF8dwkToWRoMyLAPPh67Q==",
+  "dgSpecHash": "fFePZauVxme8eQVAXqgrPzGBY+Ua5rUQmPfOYradSosNnMSZ9T8fTmHuu7P3n/X8a51lnLxRLmdadgtXW5bk/Q==",
   "success": true,
-  "projectFilePath": "E:\\DayliReport\\DayliReportApp\\api\\API.csproj",
+  "projectFilePath": "E:\\DayliReport\\DayliReportApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chave\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\chave\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
